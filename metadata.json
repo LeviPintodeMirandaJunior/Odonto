@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MediTrack Pro - Patient Management AI",
+  "description": "A sophisticated medical clinic management dashboard featuring patient tracking, health plan analytics, and an integrated Gemini-powered AI assistant for medical insights and patient care optimization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
